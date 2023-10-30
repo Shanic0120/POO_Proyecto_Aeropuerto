@@ -1,0 +1,10 @@
+build/
+.gradle/
+/bin/
+.classpath
+.project
+.settings
+.idea/
+*__pycache__*
+/out/
+src/basedatos/temp/aeropuerto.txt
